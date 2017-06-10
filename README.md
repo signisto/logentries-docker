@@ -16,3 +16,8 @@ The following variables are **required** to be set.
 ``` shell
 docker run -e LE_NAME=test -e LE_TOKEN=XXX -e LE_PATH=/var/log/nginx/access.log signisto/logentries-docker
 ```
+
+
+## License
+
+This repository is licensed the MIT License
