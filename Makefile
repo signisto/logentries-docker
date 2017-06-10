@@ -1,7 +1,7 @@
 default: build
 
 build:
-	docker build -t gostatic/logentries .
+	docker build -t signisto/logentries .
 
 push:
-	docker push gostatic/logentries
+	docker push signisto/logentries
